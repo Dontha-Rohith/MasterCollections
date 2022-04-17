@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 import com.mycollections.dto.Employee;
 
-/*This is the 2nd commit*/
 public class SearchEmployee {
 
 	public static void main(String args[]) {
